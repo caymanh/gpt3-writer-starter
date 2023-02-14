@@ -19,7 +19,7 @@
  Users can enter details about themselves such as their hobbies, personality and relationship goals, in the textbox and a Tinder profile description will be generated.
  
  <p align="center">
-    <img alt="Screenshot of Tinder Profile Generator" src="https://github.com/caymanh/gpt3-writer-starter/assets/gpt3-writer.png">
+    <img alt="Screenshot of Tinder Profile Generator" src="https://github.com/caymanh/gpt3-writer-starter/blob/main/assets/gpt3-writer.png">
 </p>
 
 ### Licence
