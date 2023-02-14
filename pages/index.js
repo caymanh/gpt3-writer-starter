@@ -39,7 +39,7 @@ const Home = () => {
           </div>
           <div className="header-subtitle">
             <h2>
-              Tell us about yourself and we will generate a profile descrtiption to help you
+              Tell us about yourself and we will generate a profile description to help you
               stand out from the crowd.
               Include as many details about yourself as possible. For example, you may mention your hobbies, relationship goals, and personality.
             </h2>
